@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="448.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.repoting_system.AdminController">
+    <children>
+        <!-- Background rectangle -->
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#000811" height="127.0" layoutX="-7.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="608.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdfeff" height="47.0" layoutX="1.0" layoutY="79.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+
+        <!-- University Title Label -->
+        <Label layoutX="14.0" layoutY="19.0" prefHeight="60.0" prefWidth="113.0" style="-fx-background-color: black;" text="LIMKOKWING&#10;UNIVERSITY" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Label>
+
+        <!-- Admin Dashboard Title -->
+        <Text layoutX="193.0" layoutY="111.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Admin Dashboard" wrappingWidth="215.13671875">
+            <font>
+                <Font size="21.0" />
+            </font>
+        </Text>
+
+        <!-- Admin Name Label -->
+        <Label fx:id="adminNameLabel" layoutX="45.0" layoutY="141.0" style="-fx-font-size: 16px;" text="Admin Name" textFill="WHITE" />
+
+        <!-- Buttons with Lighting Effect -->
+        <Button layoutX="42.0" layoutY="184.0" onAction="#handleViewProfile" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1e4f83;" text="View Profile" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="45.0" layoutY="251.0" onAction="#handleAddLecturer" prefHeight="53.0" prefWidth="121.0" style="-fx-background-color: #1a528d;" text="Add Lecturer" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="181.0" layoutY="184.0" onAction="#handleAddAcademicYear" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1e4f83;" text="Add Academic Year" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="456.0" layoutY="184.0" onAction="#handleAddSemester" prefHeight="53.0" prefWidth="133.0" style="-fx-background-color: #234468;" text="Add Semester" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="320.0" layoutY="184.0" onAction="#handleAddModule" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1e4f83;" text="Add Module" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="320.0" layoutY="250.0" onAction="#handleAssignRoles" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1a528d;" text="Assign Roles" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="457.0" layoutY="250.0" onAction="#handleAssignModules" prefHeight="53.0" prefWidth="133.0" style="-fx-background-color: #1e4f83;" text="Assign Modules" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="181.0" layoutY="250.0" onAction="#handleAssignClasses" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #234468;" text="Add Classes" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="45.0" layoutY="318.0" onAction="#handleViewAssignedRoles" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1a528d;" text="View Assigned Lecturer Roles" textFill="WHITE" wrapText="true">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="322.0" layoutY="318.0" onAction="#handleViewAssignedModules" prefHeight="53.0" prefWidth="121.0" style="-fx-background-color: #1e4f83;" text="View Assigned Modules" textFill="WHITE" wrapText="true">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="181.0" layoutY="318.0" onAction="#handleViewAssignedSemester" prefHeight="53.0" prefWidth="127.0" style="-fx-background-color: #1a528d;" text="View Assigned Semesters" textFill="WHITE" wrapText="true">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button layoutX="487.0" layoutY="389.0" onAction="#handleLogout" prefHeight="21.0" prefWidth="80.0" style="-fx-background-color: black;" text="Logout" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+    </children>
+</Pane>

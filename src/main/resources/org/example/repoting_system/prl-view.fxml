@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.repoting_system.PRLController">
+    <children>
+        <!-- Background Rectangle -->
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#000811" height="127.0" layoutX="-7.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="608.0" />
+        <Label layoutX="24.0" layoutY="9.0" prefHeight="60.0" prefWidth="113.0" style="-fx-background-color: black;" text="LIMKOKWING&#10;UNIVERSITY" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Label>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdfeff" height="47.0" layoutX="1.0" layoutY="79.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+
+        <!-- Dashboard Title -->
+        <Text fill="#333" layoutX="170.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Principal Lecturer Dashboard" wrappingWidth="337.0">
+            <font>
+                <Font size="24.0" />
+            </font>
+        </Text>
+
+        <!-- Buttons with Lighting Effects -->
+        <Button fx:id="createReportButton" layoutX="190.0" layoutY="180.0" onAction="#handleCreateReport" prefHeight="50.0" prefWidth="220.0" style="-fx-background-color: #1e4f83;" text="Create Report" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button fx:id="weeklyClassDataButton" layoutX="190.0" layoutY="250.0" onAction="#handleWeeklyClassData" prefHeight="50.0" prefWidth="220.0" style="-fx-background-color: #1a528d;" text="Enter Weekly Class Data" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button fx:id="logoutButton" layoutX="490.0" layoutY="350.0" onAction="#handleLogout" prefHeight="25.0" prefWidth="80.0" style="-fx-background-color: black;" text="Logout" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                </Lighting>
+            </effect>
+        </Button>
+    </children>
+</Pane>

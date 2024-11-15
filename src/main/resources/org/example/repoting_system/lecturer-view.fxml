@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="448.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.repoting_system.LecturerController">
+    <children>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#000811" height="127.0" layoutX="-7.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="608.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdfeff" height="47.0" layoutX="1.0" layoutY="79.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+        <!-- University TextArea (for title) -->
+        <Label layoutX="14.0" layoutY="19.0" prefHeight="60.0" prefWidth="113.0" style="-fx-background-color: black;" text="LIMKOKWING&#10;UNIVERSITY" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Label>
+
+        <!-- Dashboard Title -->
+        <Text layoutX="193.0" layoutY="111.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lecturer Dashboard" wrappingWidth="215.13671875">
+            <font>
+                <Font size="21.0" />
+            </font>
+        </Text>
+
+        <!-- Buttons with Lighting Effects -->
+        <Button fx:id="markAttendanceButton" layoutX="42.0" layoutY="184.0" mnemonicParsing="false" onAction="#handleMarkAttendance" prefHeight="53.0" prefWidth="250.0" style="-fx-background-color: black;" text="Attendance, Specifying chapters and Learning outcomes Management" textFill="WHITE" wrapText="true">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                    <light>
+
+                    </light>
+                </Lighting>
+            </effect>
+        </Button>
+
+        <Button fx:id="logoutButton" layoutX="489.0" layoutY="388.0" mnemonicParsing="false" onAction="#handleLogout" prefHeight="21.0" prefWidth="80.0" style="-fx-background-color: black;" text="Logout" textFill="WHITE">
+            <effect>
+                <Lighting>
+                    <bumpInput>
+                        <Shadow />
+                    </bumpInput>
+                    <light>
+
+                    </light>
+                </Lighting>
+            </effect>
+        </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1e4f83" height="53.0" layoutX="323.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="239.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1a528d" height="53.0" layoutX="37.0" layoutY="256.0" stroke="BLACK" strokeType="INSIDE" width="250.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#234468" height="53.0" layoutX="323.0" layoutY="256.0" stroke="BLACK" strokeType="INSIDE" width="239.0" />
+    </children>
+</Pane>

@@ -1,0 +1,145 @@
+Login - Username: admin, Time: 2024-11-01 11:50:10
+Login - Username: admin, Time: 2024-11-01 12:04:23
+Login - Username: admin, Time: 2024-11-01 12:07:27
+Login - Username: admin1, Time: 2024-11-01 12:24:13
+Login - Username: admin1, Time: 2024-11-01 12:38:59
+Login - Username: admin1, Time: 2024-11-01 12:42:12
+Login - Username: admin1, Time: 2024-11-01 12:43:36
+Login - Username: admin1, Time: 2024-11-01 12:48:46
+Login - Username: admin1, Time: 2024-11-01 13:01:30
+Login - Username: admin1, Time: 2024-11-01 13:03:50
+Login - Username: admin1, Time: 2024-11-01 13:30:50
+Login - Username: admin1, Time: 2024-11-01 13:48:27
+Login - Username: admin1, Time: 2024-11-01 13:54:46
+Login - Username: admin1, Time: 2024-11-01 14:01:13
+Login - Username: admin1, Time: 2024-11-01 14:05:47
+Login - Username: admin1, Time: 2024-11-01 14:08:45
+Login - Username: admin1, Time: 2024-11-01 14:19:10
+Login - Username: admin1, Time: 2024-11-01 14:22:04
+Login - Username: admin1, Time: 2024-11-01 14:31:09
+Login - Username: admin1, Time: 2024-11-01 14:32:04
+Login - Username: admin1, Time: 2024-11-02 13:24:32
+Login - Username: admin1, Time: 2024-11-02 13:25:38
+Login - Username: admin1, Time: 2024-11-02 14:17:16
+Login - Username: admin1, Time: 2024-11-02 15:08:15
+Login - Username: admin1, Time: 2024-11-02 15:24:17
+Login - Username: admin1, Time: 2024-11-02 15:44:13
+Login - Username: admin1, Time: 2024-11-02 15:48:09
+Login - Username: admin1, Time: 2024-11-02 15:49:57
+Login - Username: admin1, Time: 2024-11-02 15:53:53
+Login - Username: admin1, Time: 2024-11-02 18:55:35
+Login - Username: admin1, Time: 2024-11-02 18:57:00
+Login - Username: admin1, Time: 2024-11-02 19:15:39
+Login - Username: admin1, Time: 2024-11-06 11:13:59
+Login - Username: admin1, Time: 2024-11-06 11:16:17
+Login - Username: admin1, Time: 2024-11-06 11:16:28
+Login - Username: admin1, Time: 2024-11-06 11:17:11
+Login - Username: lecturer1, Time: 2024-11-06 11:24:22
+Login - Username: lecturer2, Time: 2024-11-06 11:25:13
+Login - Username: Lecturer2, Time: 2024-11-06 11:25:53
+Login - Username: prl_user, Time: 2024-11-06 11:31:23
+Login - Username: lecturer2, Time: 2024-11-06 11:33:06
+Login - Username: admin1, Time: 2024-11-06 11:35:50
+Login - Username: admin1, Time: 2024-11-06 11:43:29
+Login - Username: admin1, Time: 2024-11-06 11:51:29
+Login - Username: admin1, Time: 2024-11-06 11:59:47
+Login - Username: lecturer2, Time: 2024-11-06 12:03:08
+Login - Username: lecturer2, Time: 2024-11-06 12:19:59
+Login - Username: lecturer2, Time: 2024-11-06 12:29:30
+Login - Username: lecturer2, Time: 2024-11-06 12:33:14
+Login - Username: lecturer2, Time: 2024-11-06 12:35:38
+Login - Username: lecturer2, Time: 2024-11-06 13:24:19
+Login - Username: lecturer2, Time: 2024-11-06 13:38:50
+Login - Username: lecturer2, Time: 2024-11-06 13:43:44
+Login - Username: lecturer2, Time: 2024-11-06 13:51:00
+Login - Username: lecturer2, Time: 2024-11-07 08:00:25
+Login - Username: lecturer2, Time: 2024-11-07 08:06:47
+Login - Username: lecturer2, Time: 2024-11-07 08:25:05
+Login - Username: lecturer2, Time: 2024-11-07 08:30:38
+Login - Username: lecturer2, Time: 2024-11-07 08:34:18
+Login - Username: prl_user, Time: 2024-11-07 11:03:00
+Login - Username: prl_user, Time: 2024-11-07 11:10:59
+Login - Username: prl_user, Time: 2024-11-07 11:15:02
+Login - Username: prl_user, Time: 2024-11-07 11:17:00
+Login - Username: lecturer1, Time: 2024-11-07 11:18:49
+Login - Username: lecturer2, Time: 2024-11-11 07:14:03
+Login - Username: lecturer2, Time: 2024-11-11 07:25:11
+Login - Username: lecturer2, Time: 2024-11-11 07:33:16
+Login - Username: lecturer2, Time: 2024-11-11 07:38:01
+Login - Username: lecturer2, Time: 2024-11-11 07:38:30
+Login - Username: lecturer2, Time: 2024-11-11 07:38:46
+Login - Username: lecturer2, Time: 2024-11-11 07:42:35
+Login - Username: lecturer2, Time: 2024-11-11 08:17:04
+Login - Username: lecturer2, Time: 2024-11-11 08:26:40
+Login - Username: lecturer2, Time: 2024-11-11 08:34:30
+Login - Username: lecturer2, Time: 2024-11-11 08:36:51
+Login - Username: lecturer2, Time: 2024-11-11 08:37:48
+Login - Username: lecturer2, Time: 2024-11-11 08:46:59
+Login - Username: admin1, Time: 2024-11-11 09:03:43
+Login - Username: lecturer2, Time: 2024-11-11 09:11:47
+Login - Username: admin1, Time: 2024-11-11 09:12:09
+Login - Username: admin1, Time: 2024-11-11 09:20:28
+Login - Username: prl_user, Time: 2024-11-11 09:26:31
+Login - Username: prl_user, Time: 2024-11-11 09:30:06
+Login - Username: prl_user, Time: 2024-11-11 09:36:23
+Login - Username: lecturer1, Time: 2024-11-11 09:39:04
+Login - Username: lecturer1, Time: 2024-11-11 09:39:31
+Login - Username: admin, Time: 2024-11-11 09:58:08
+Login - Username: admin, Time: 2024-11-11 10:00:51
+Login - Username: admin, Time: 2024-11-11 10:29:12
+Login - Username: admin, Time: 2024-11-11 10:29:58
+Login - Username: prl_user, Time: 2024-11-11 12:38:32
+Login - Username: prl_user, Time: 2024-11-11 12:38:48
+Login - Username: admin, Time: 2024-11-11 12:39:47
+Login - Username: admin, Time: 2024-11-11 12:40:42
+Login - Username: admin1, Time: 2024-11-11 14:25:09
+Login - Username: lecturer2, Time: 2024-11-11 14:26:25
+Login - Username: admin1, Time: 2024-11-11 14:32:41
+Login - Username: Thabo Pitsi, Time: 2024-11-13 12:42:08
+Login - Username: Lerato Mpholle, Time: 2024-11-13 13:01:50
+Login - Username: Lerato Mpholle, Time: 2024-11-13 13:16:25
+Login - Username: Mrs Macheli, Time: 2024-11-13 13:18:12
+Login - Username: Mr Mokhamo, Time: 2024-11-13 13:23:03
+Login - Username: Mr Mokhamo, Time: 2024-11-13 13:35:21
+Login - Username: Thabo Pitsi, Time: 2024-11-13 19:54:47
+Login - Username: Thabo Pitsi, Time: 2024-11-13 19:55:01
+Login - Username: Lerato Mpholle, Time: 2024-11-13 20:03:27
+Login - Username: Lineo Morake, Time: 2024-11-13 20:07:27
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:23:18
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:26:45
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:40:57
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:41:19
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:44:39
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:48:10
+Login - Username: Thabo Pitsi, Time: 2024-11-13 20:52:08
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:08:15
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:10:29
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:20:22
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:29:10
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:36:38
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:37:40
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:38:51
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:40:49
+Login - Username: Thabo Pitsi, Time: 2024-11-13 21:58:03
+Login - Username: Thabo Pitsi, Time: 2024-11-13 22:24:26
+Login - Username: Thabo Pitsi, Time: 2024-11-13 22:35:45
+Login - Username: Thabo Pitsi, Time: 2024-11-13 22:47:09
+Login - Username: Mr Mokhamo, Time: 2024-11-13 22:49:41
+Login - Username: Miss Ranyali, Time: 2024-11-13 22:52:07
+Login - Username: Thabo Pitsi, Time: 2024-11-14 10:47:01
+Login - Username: Thabo Pitsi, Time: 2024-11-14 10:50:15
+Login - Username: Miss Ranyali, Time: 2024-11-14 10:51:46
+Login - Username: Miss Ranyali, Time: 2024-11-14 10:56:46
+Login - Username: Mrs Macheli, Time: 2024-11-14 11:12:42
+Login - Username: Mr Mokhamo, Time: 2024-11-14 11:19:42
+Login - Username: Mr Mokhamo, Time: 2024-11-14 11:28:42
+Login - Username: Thabo Pitsi, Time: 2024-11-14 11:46:32
+Login - Username: Thabo Pitsi, Time: 2024-11-14 13:48:49
+Login - Username: Mrs Macheli, Time: 2024-11-14 14:01:49
+Login - Username: Mr Mokhamo, Time: 2024-11-14 14:10:42
+Login - Username: Thabo Pitsi, Time: 2024-11-14 14:28:00
+Login - Username: Thabo Pitsi, Time: 2024-11-14 14:31:50
+Login - Username: Thabo Pitsi, Time: 2024-11-14 14:43:37
+Login - Username: Miss Ranyali, Time: 2024-11-14 15:14:47
+Login - Username: Miss Ranyali, Time: 2024-11-14 15:20:27
+Login - Username: Mr Mokhamo, Time: 2024-11-14 15:23:50

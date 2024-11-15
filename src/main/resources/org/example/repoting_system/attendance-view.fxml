@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.repoting_system.AttendanceController"
+      alignment="CENTER" spacing="10">
+
+    <padding>
+        <Insets top="20" bottom="20" left="20" right="20"/>
+    </padding>
+
+    <Label text="Attendance, Specifying chapters and learning outcomes Management"
+           style="-fx-font-size: 20px; -fx-text-fill: #333;"/>
+    <DatePicker fx:id="attendanceDatePicker"/>
+    <TextField fx:id="studentIdField" promptText="Student ID"/>
+
+    <CheckBox text="Present" fx:id="presentCheckBox"/>
+    <CheckBox text="Absent" fx:id="absentCheckBox"/>
+
+    <TextArea fx:id="chapterDetailsField" promptText="Chapters Covered"/>
+    <TextArea fx:id="learningOutcomesField" promptText="Learning Outcomes"/>
+
+    <Button text="Submit" fx:id="submitAttendanceButton" onAction="#handleSubmitAttendance"/>
+</VBox>
