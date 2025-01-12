@@ -164,6 +164,4 @@ We welcome contributions to improve this project! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to suggest additional changes or ask questions in the issues section of the repository!
