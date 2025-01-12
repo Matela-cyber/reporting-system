@@ -140,8 +140,7 @@ The database schema includes the following tables:
 ---
 
 ## Contributing
-
-We welcome contributions to improve this project! To contribute:
+You are welcome contributions to improve this project! To contribute:
 
 1. Fork the repository.
 2. Create a feature branch:
