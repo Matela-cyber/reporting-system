@@ -138,6 +138,12 @@ The database schema includes the following tables:
 | module_id  | INT         | Foreign key to modules   |
 
 ---
+## Screen shots
+<img src="greport1.png" alt="1st IMAGE" width="500" height="400">
+<img src="greport2.png" alt="2nd IMAGE" width="850" height="500">
+<img src="greport3.png" alt="3rd IMAGE" width="850" height="500">
+---
+
 
 ## Contributing
 You are welcome contributions to improve this project! To contribute:
