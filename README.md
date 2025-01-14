@@ -139,7 +139,7 @@ The database schema includes the following tables:
 
 ---
 ## Screen shots
-<img src="greport1.png" alt="1st IMAGE" width="500" height="370">
+<img src="greport1.png" alt="1st IMAGE" width="500" height="345">
 <img src="greport2.png" alt="2nd IMAGE" width="850" height="500">
 <img src="greport3.png" alt="3rd IMAGE" width="850" height="500">
 ---
